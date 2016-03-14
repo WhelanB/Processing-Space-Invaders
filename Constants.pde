@@ -1,0 +1,1 @@
+int SCREENX = 640;
